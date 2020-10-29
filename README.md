@@ -17,3 +17,10 @@ This responsitory is used for learning MIT 6004 course. I will put everrything i
 |L03 Procedures||Chapter 2, 2.8, 2.13|
 |L04 Procedures||Chapter 2, 2.8, 2.13|
 
+## Tools Setting up
+
+### References
+
+https://mindchasers.com/dev/rv-getting-started
+
+https://risc-v-getting-started-guide.readthedocs.io/en/latest/linux-qemu.html
